@@ -5,8 +5,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Simple explaination of the product or service.
 baseurl: "/DigitalDeath" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tjharrop
-github_username:  tjharrop
+twitter_username: sam_butler
+github_username:  samsonTheCat
 
 browserTitle: Digital Death
 
